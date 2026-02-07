@@ -3,7 +3,7 @@ Hello! This is a neural network I built during high school. It was implemented f
 
 ## How to run 
 
-1. Clone the repository:
+1.Clone the repository:
    
 git clone https://github.com/TumiXR/3D-imu-neural-network-numpy.git
 cd 3D-imu-neural-network-numpy
